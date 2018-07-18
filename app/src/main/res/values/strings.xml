@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+
+    <string name="category_historical_monuments">historical monuments</string>
+
+    <string name="category_park">park</string>
+
+    <string name="category_library">library</string>
+
+    <string name="category_returant">returant</string>
+</resources>
